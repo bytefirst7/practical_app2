@@ -18,9 +18,9 @@ Per your request, I analyzed the historical vehicle data you’ve collected and 
 
 These patterns can help inform your purchasing strategy to maximize vehicle value and profitability
 
-![alt text](images/Image1.png)
+![alt text](images/Image1.jpg)
 
-![alt text](images/Image2.png)
+![alt text](images/Image2.jpg)
 
-![alt text](images/Image3.png)
+![alt text](images/Image3.jpg)
 
